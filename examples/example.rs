@@ -1,4 +1,5 @@
 #[no_std];
+#[feature(asm)];
 
 use core::vec::Vec;
 
