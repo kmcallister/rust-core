@@ -2,6 +2,7 @@
 
 use core::vec::Vec;
 
+#[path="../core/mod.rs"]
 mod core;
 
 #[start]
